@@ -1,0 +1,21 @@
+h1 {
+    color: darkorchid;
+    font-size: 50px;
+}
+
+ul {
+    color: cornflowerblue;
+    font-weight: bold;
+}
+
+p {
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: overline underline blue 3px;
+    line-height: 30px;
+    letter-spacing: 30px;
+}
